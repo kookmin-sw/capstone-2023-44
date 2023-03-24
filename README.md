@@ -1,18 +1,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10064102&assignment_repo_type=AssignmentRepo)
 ## 캡스톤 44조
 
-- 프로젝트 소개
-  - 프로젝트 설치방법 및 데모, 사용방법, 프리뷰등을 readme.md에 작성.
-  - Api나 사용방법등 내용이 많을경우 wiki에 꾸미고 링크 추가.
-
-- 팀페이지 꾸미기
-  - 프로젝트 소개 및 팀원 소개
-  - index.md 예시보고 수정.
-
-- GitHub Pages 리파지토리 Settings > Options > GitHub Pages 
-  - Source를 marster branch
-  - Theme Chooser에서 태마선택
-  - 수정후 팀페이지 확인하여 점검.
 
 **팀페이지 주소** -> https://kookmin-sw.github.io/ '{{자신의 리파지토리 아이디}}'
 
@@ -23,17 +11,24 @@
 
 ### 1. 프로잭트 소개
 
-프로젝트
+프로젝트 
 
 ### 2. 소개 영상
-
+- 추가 예정
 프로젝트 소개하는 영상을 추가하세요
 
 ### 3. 팀 소개
+(팀원정보 및 담당이나 사진 및 SNS를 이용하여 소개하세요.)
 
-팀을 소개하세요.
+#### 팀장
+- 작성 필요
 
-팀원정보 및 담당이나 사진 및 SNS를 이용하여 소개하세요.
+#### 팀원1
+- 작성 필요
+
+#### 팀원2
+- 작성 필요
+
 
 ### 4. 사용법
 
