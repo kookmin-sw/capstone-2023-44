@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## TEAM 44(수정중)
 
-You can use the [editor on GitHub](https://github.com/kookmin-sw/cap-template/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 1.프로젝트 소개
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Team 44는 기존의 비주얼노벨 게임의 문제점인 제한된 선택지로만 진행되는 스토리와 캐릭터 상호작용을 해결하기 위해 시작된 프로젝트입니다.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 2. 소개 영상
 
-# Header 1
-## Header 2
-### Header 3
+- 추가 예정
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### 3. 팀 소개
 
-[Link](url) and ![Image](src)
-```
+#### 팀장 박종한
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- 담당: 프로젝트 기획, 게임 밸런스 조정, 콘텐츠 디자인, 시나리오 조율, 서브 미니게임 구현
 
-### Jekyll Themes
+#### 팀원 김정환
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kookmin-sw/cap-template/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- 담당: 게임 시스템 기획, 애니메이션 / 사운드 / 게임 시스템 구현, UI/UX 디자인, 캐릭터 디자인
 
-### Support or Contact
+#### 팀원 문경한
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 담당: 게임 내 사용되는 AI 관련 컨텐츠 담당, ML 모델 설계 및 구현, 배경 디자인
+
+
+
+### 4. 사용법
+
+##### Unity 에디터가 설치되어 있는 경우
+
+- 추가 예정
+
+##### Unity 에디터가 설치되어 있지 않은 경우
+
+- 추가 예정
+
+
+
+### 5. 기타
