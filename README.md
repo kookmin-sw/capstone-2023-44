@@ -1,53 +1,43 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10064102&assignment_repo_type=AssignmentRepo)
-## 캡스톤 44조
+## TEAM 44(수정중)
+
+### 1.프로젝트 소개
+
+Team 44는 기존의 비주얼노벨 게임의 문제점인 제한된 선택지로만 진행되는 스토리와 캐릭터 상호작용을 해결하기 위해 시작된 프로젝트입니다.
 
 
-**팀페이지 주소** -> https://kookmin-sw.github.io/ '{{자신의 리파지토리 아이디}}'
-
-**예시)** 2023년 0조  https://kookmin-sw.github.io/capstone-2023-00/
-
-
-## 내용에 아래와 같은 내용들을 추가하세요.
-
-### 1. 프로잭트 소개
-
-프로젝트 
 
 ### 2. 소개 영상
+
 - 추가 예정
-프로젝트 소개하는 영상을 추가하세요
+
+
 
 ### 3. 팀 소개
 
-#### 팀장: 박종한
-- 사진
-[Link](url) and ![Image](src)
+#### 팀장 박종한
 
-- 담당
+- 담당: 프로젝트 기획, 게임 밸런스 조정, 콘텐츠 디자인, 시나리오 조율, 서브 미니게임 구현
 
-- SNS
+#### 팀원 김정환
 
-#### 팀원1: 김정환
-- 사진?
-[Link](url) and ![Image](src)
+- 담당: 게임 시스템 기획, 애니메이션 / 사운드 / 게임 시스템 구현, UI/UX 디자인, 캐릭터 디자인
 
-- 담당
+#### 팀원 문경한
 
-- SNS
+- 담당: 게임 내 사용되는 AI 관련 컨텐츠 담당, ML 모델 설계 및 구현, 배경 디자인
 
-#### 팀원2 : 문경한
-- 사진?
-[Link](url) and ![Image](src)
-
-- 담당
-
-- SNS
 
 
 ### 4. 사용법
 
-추후 추가 예정입니다.
+##### Unity 에디터가 설치되어 있는 경우
+
+- 추가 예정
+
+##### Unity 에디터가 설치되어 있지 않은 경우
+
+- 추가 예정
+
+
 
 ### 5. 기타
-
-추가적인 내용은 자유롭게 작성하세요.
