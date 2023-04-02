@@ -2,21 +2,30 @@
 
 ### 1.프로젝트 소개
 
-AIAI44는 비주얼노벨 게임의 문제점인 제한된 선택지로만 진행되는 스토리와 한정된 캐릭터와의 상호작용을 해결하기 위해 시작된 프로젝트입니다.
+#### AIAI44는 비주얼노벨 게임의 문제점인 제한된 선택지로만 진행되는 스토리와 한정된 캐릭터와의 상호작용을 해결하기 위해 시작된 프로젝트입니다.
+
+비주얼 노벨이란 글과 그림을 이용해 스토리를 진행하며 유저가 선택한 선택지에 의해 스토리가 변화하는 게임입니다.
+<img src='https://drive.google.com/uc?export=download&id=1pUe6l3f2ghpPaVBXtRmked6iz266_kck'/><br/>
+(비주얼 노벨의 예시)
+
+기존의 비주얼노벨 게임은 정해진 스크립트를 따라 스토리가 진행되기 때문에 스크립트에 작성된 대사나 리액션만 표현이 가능하다는 단점이 존재합니다.
+저희 팀은 등장인물들의 감정 상태에 따라 다른 대사와 리액션을 출력함으로써 등장인물들을 생동감 있게 표현하고 스토리의 몰입도를 끌어올리는것이 목표입니다.
 
 
+
+<br /><br /><br />
 
 개발환경
 
-엔진: Unity(2021.3.9f1) <br />
+엔진: Unity(2021.3.9f1) <br /><br />
 
-라이브러리: Pytorch, Unity barracuda, ML-agent<br />
+라이브러리: Pytorch, Unity barracuda, ML-agent<br /><br />
 
-플랫폼: ONNX(Open Neural Network Exchange) <br />
+플랫폼: ONNX(Open Neural Network Exchange) <br /><br />
 
-아트: Stable diffusion, Novel ai <br />
+아트: Stable diffusion, Novel ai <br /><br />
 
-사용 저장소: Google drive
+사용 저장소: Google drive<br /><br />
 
 
 ### 3. 팀 소개
