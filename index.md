@@ -1,4 +1,5 @@
 ## 캡스톤 디자인 44팀 - Team AI44
+Repository: [Google drive](https://drive.google.com/drive/folders/1JFq7aJPQ9kyBiYMT8CoLZcOoXJF-qCuG?usp=sharing)
 
 ### 프로젝트 소개 
 
