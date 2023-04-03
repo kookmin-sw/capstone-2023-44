@@ -40,7 +40,7 @@ ML models: Pytorch, Unity barracuda, ML-agent, ONNX<br />
 
 Arts: Stable diffusion, Novel ai <br />
 
-Repository: [Google drive](https://drive.google.com/drive/folders/1JFq7aJPQ9kyBiYMT8CoLZcOoXJF-qCuG?usp=sharing) -> 용량 문제 때문에 게임 파일들은 github가 아닌 구글 드라이브를 사용하기로 하였습니다.
+Repository: [Google drive](https://drive.google.com/drive/folders/1JFq7aJPQ9kyBiYMT8CoLZcOoXJF-qCuG?usp=sharing) -> 용량 문제로 인해 게임 소스파일들은 github가 아닌 구글 드라이브에 업로드 될 예정입니다.
 
 <br />
 
