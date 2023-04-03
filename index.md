@@ -5,8 +5,8 @@ Repository: [Google drive](https://drive.google.com/drive/folders/1JFq7aJPQ9kyBi
 
 AI44는 스토리 위주로 진행되는 비주얼 노벨 장르 게임으로 AI를 인간으로 만드는 것이 목표인 게임입니다.
 
-![example1](PageSources/example1.png)
-![example2](PageSources/example2.png)
+![ex1](PageSources/example1.png)
+![ex2](PageSources/example2.png)
 
 (비주얼 노블 게임 예시)
 
