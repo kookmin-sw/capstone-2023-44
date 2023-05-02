@@ -1,0 +1,3 @@
+Version 2023-04-10
+
+Emotion Analyzer와의 Integration후 Barracuda와 ML Agent의 버그 수정 버전
