@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<day0>
+	<Script Comm=" " Img_Dest="BackGround_BG" Img_Location="Assets/Design/BackGrounds/bar.png" Img_Effect="change" Move="" Name ="" BGM =""/>
+	<Script Comm="야야야 빨리와 이렇게 늦는놈이 어딨어" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="친구1" BGM =""/>
+	<Script Comm="그만 뭐라해, 얼마만에 이렇게 모였는데, 어차피 늦은놈이 1차 살거야" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="친구2" BGM =""/>
+	<Script Comm="근데 오늘 주인공 어딨어 아니 군대를 27살에 입대해서 지금 전역하는놈이 어딨냐?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="친구1" BGM =""/>
+	<Script Comm="충생~, 아니 내가 늦게 나라지켜서 니들이 발뻗고 자는데 뭐라는거야?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="친구3" BGM =""/>
+	<Script Comm="그리고 니들 내 전역 아니어도 무슨 핑계를 대서라도 술 마셨을거잖아 나 때문에 모인척하지마라." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="친구3" BGM =""/>
+	<Script Comm="물론 맞는말이긴 하지, 아 맞다 너는 뭐 가는거야 안가는거야?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="친구1" BGM =""/>
+	<Script Comm="전문연구요원중이라니까 박사따면 어? 면제라니까? " Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="아니 박사되면 면제인건 알겠는데, 그걸 언제따냐고 내 친구는 석박 통합해서 곧 디펜스 통과했다고 하더만" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="친구1" BGM =""/>
+	<Script Comm="아니 나도 곧 논문 내고 지도교수님 허락있으면 박사라니까?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="내 이럴줄 알았다.." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="소개팅을 해서 만나도 군대안갔다고 하면 연락이 끊기고" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="술자리를 가져도 술 들어가기 시작하면 군대얘기가 나오고" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="심지어 요즘은 택시를 타도 택시기사가 어느부대 나왔냐고 물어보기까지 하고 정말." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="박사 전문연구요원에 대해서 설명을 해줘도 그래도 안가긴 했네요 라는 소리나 듣고 " Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="이젠 너무 힘들다" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="요즘 핸드폰도 된다는데... 그냥 확 갔" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="속보입니다 모 군부대에서 집단 따돌림으로 인해 극단적인 선택을 한 병사의 사연이 주목받고 있습니다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="뉴스" BGM ="NEWS2"/>
+	<Script Comm="고교시절 우수한 성적으로 서울내 유명 학교를 진학한 A씨는 가혹행위와 따돌림을 이기지 못해 극단적인 선택을 한 것으로 알려져있습니다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="뉴스" BGM =""/>
+	<Script Comm="수면박탈, 식고문등 과거부터 이어오던 악폐습뿐 아니라 메신저를 이용한 신종 가혹행위까지 자행했던 것으로 알려졌습니다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="뉴스" BGM =""/>
+	<Script Comm="조사과정에선 책임을 회피하기 위해 간부진들 부터 입을 맞추는 등 은폐 정황또한 드러났습니다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="뉴스" BGM =""/>
+	<Script Comm="관계부처에서는 환경에는 문제가 없다는 말만 되풀이 하고 있습니다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="뉴스" BGM =""/>
+	<Script Comm=".......갔다오지는 말자.." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM ="Stop"/>
+	<Script Comm="야, 왜 또 표정이 굳었어 안가면 안가는거지" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="친구1" BGM =""/>
+	<Script Comm="설마 진짜 가야될 수도 있냐?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="친구1" BGM =""/>
+	<Script Comm="29살에 군대? 중대장이 너보다 어리지 ㅋㅋㅋ" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="친구2" BGM =""/>
+	<Script Comm="정말 가게되면 뺑이치십쇼" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="친구2" BGM =""/>
+	<Script Comm="난 단돈 3만원씩 줘도 되니까 갔다온거로 처리해줬으면 좋겠는데..." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="에이 모르겠다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="야.. 적당히 좀 마셔 너 죽으면 안챙겨주지 말입니다?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="친구3" BGM =""/>
+	<Script Comm="방금 전역한애까지 난리네" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="내 인생은 대체 어디서 부터......" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="야....얘 택시태워서 집으로 보내" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="친구2" BGM =""/>
+	<Script Comm="으.... 여기가 어디지" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="친구2" BGM =""/>
+	<Script Comm=" " Img_Dest="BackGround_BG" Img_Location="Assets/Design/BackGrounds/Room_Bright.png" Img_Effect="hide" Move="" Name ="" BGM =""/>
+	<Script Comm="" Img_Dest="BackGround_BG" Img_Location="" Img_Effect="bright" Move="" Name ="" BGM ="Alarm"/>
+	<Script Comm="목도 마르고 머리는 더 아프고" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="대체 얼마나 자고 있었던 거지?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="잠..깐 지금 시간이?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM ="Stop"/>
+	<Script Comm="큰일났다... " Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="대체 얼마나 먹은거야 어제?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="설마 술먹고 막 전화한건 아니겠지?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="예전엔 아니었던것 같지만 대학원 진학하고 나서 부쩍 주사가 심해진 느낌이다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="초조한 마음으로 핸드폰 통화기록을 뒤져봤지만" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="다행히도 1시 이후의 연락기록은 없다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="일단 빠르게 준비를 하고 나가자 조금만 늦어도 지각이야" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="" Img_Dest="" Img_Location="" Img_Effect="" Move="Tutorial_Lab" Name ="" BGM =""/>
+</day0>

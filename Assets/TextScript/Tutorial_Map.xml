@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Tutorial_Map>
+	<Script Comm="" Img_Dest="" Img_Location="" Img_Effect="" Move="Block" Name ="" BGM =""/>
+	<Script Comm="Tutorial[자유이동] 일정이 끝난뒤 자유이동이 가능합니다." Img_Dest="" Img_Location="" Img_Effect="" Move="Keepgoing" Name ="" BGM =""/>
+	<Script Comm="Map Icon을 클릭시 Map선택창이 나옵니다." Img_Dest="" Img_Location="" Img_Effect="" Move="Map" Name ="" BGM =""/>
+	<Script Comm=" " Img_Dest="" Img_Location="" Img_Effect="" Move="Turnup" Name ="" BGM =""/>
+	<Script Comm="아무데나 눌러주세요" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+</Tutorial_Map>

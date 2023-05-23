@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Tutorial_Photo>
+	<Script Comm="" Img_Dest="" Img_Location="" Img_Effect="" Move="Block" Name ="" BGM =""/>
+	<Script Comm="[사진,물체인식 튜토리얼]" Img_Dest="" Img_Location="" Img_Effect="" Move="Keepgoing" Name ="" BGM =""/>
+	<Script Comm="스토리의 진행에 따라서 이미지 데이터를 이용해 AI의 성장을 도울 수 있습니다. " Img_Dest="" Img_Location="" Img_Effect="" Move="Keepgoing" Name ="" BGM =""/>
+	<Script Comm="이미지 이벤트는 게임 진행에 필수적인 행동은 아니지만, 턴을 소모하지 않고 스탯을 증가시킬수 있는 이벤트입니다." Img_Dest="" Img_Location="" Img_Effect="" Move="Keepgoing" Name ="" BGM =""/>
+	<Script Comm="아래의 Data 버튼을 클릭해 인식을 시작해주세요" Img_Dest="" Img_Location="" Img_Effect="" Move="Photo" Name ="" BGM =""/>
+	<Script Comm="Data가 저장되었습니다." Img_Dest="" Img_Location="" Img_Effect="" Move="Keepgoing" Name ="" BGM =""/>
+	<Script Comm="AI가 학습중입니다......" Img_Dest="" Img_Location="" Img_Effect="" Move="Photo_End" Name ="" BGM =""/>
+	<Script Comm="학습이 완료되었습니다. " Img_Dest="" Img_Location="" Img_Effect="" Move="Keepgoing" Name ="" BGM =""/>
+	<Script Comm="" Img_Dest="" Img_Location="" Img_Effect="" Move="Photo_Tutorial_End" Name ="" BGM =""/>
+</Tutorial_Photo>

@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<day2>
+	<Script Comm=" " Img_Dest="BackGround_BG" Img_Location="Assets/Design/BackGrounds/Room_Dinner.png" Img_Effect="change" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="예전엔 부모님이 우울할때 술마시지 말라고하셨는데" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="두분이 싸우실때마다 술드시는 걸 보면서 참 한심하게 느껴졌었다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="근데 난 아직 그때 부모님 나이도 아닌데 그 말을 지키기가 쉽지 않다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="마시는 소리" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="술을 마셨을때 술이 맛있는날은 주량이 좀 받쳐주는 날이라고 하던데" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="요즘따라 술이 왜이렇게 맛있지?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="평소에는 잘 먹지도 않던 술을 벌써 이번주에 두번이나 마시고" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="회식 대신으로 술을 좀 더 마실까" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="어차피 오늘 회식이라 내일 일찍들 출근할 것 같지도 않고" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="연구실 회식은 거의 이뤄지지 않지만 한번 먹으면 감정적인 교수님 성격 탓에 1차로 끝나는 법이 없긴 했다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="그럼 뭐 한두캔만 더 사오지 뭐" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="아까 냉장고를 보니 남아있는 안주거리도 없던데 내일 아침에 먹을것도 같이 사와야지" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="지금이 10시 좀 넘었으니까 사와서 마시고 자면 12시전에는 잘 수 있겠지?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="문 여는 소리" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="길거리 밤사진" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="아직 밤에는 쌀쌀하긴 하네" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="봄이 찾아왔다고는 해도 아직은 가볍게 입고다닐 날씨는 아닌것 같다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="기침" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="쌀쌀한 날씨와 함께 봄이와서 꽃가루가 날리기 시작했다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="후딱가서 사와야지" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="발걸음을 재촉하던 찰나 저멀리서 어디서 본듯한 실루엣이 보이기 시작했다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="아는 사람이 많지 않은 나로서는 아는사람이라면 분명히 연구실 사람중에 하나일텐데..." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="어이! ㄱ거ㄱ기" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="???" BGM =""/>
+	<Script Comm="설마 나를 부르는건가? 나를 아는사람인가?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="고개를 돌려 뒤를 돌아보았다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="ㄱㅣ거ㄱ기 ㄴ너 그ㄹ래 너 돌ㄹㄹ아보느 너!" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="???" BGM =""/>
+	<Script Comm="게슴츠레 눈을뜨며 쳐다보니 오늘 연구실에 들어온 포닥분이었다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="저.... 저요?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="대체 왜 이쪽 방향으로 온거지?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="애초에 회식이 벌써 끝날리도 없는데..." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="ㅇ에왜 안ㅇ오왔어! 회ㅅ식" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="???" BGM =""/>
+	<Script Comm="나한테 왜 회식 안왔냐고 물어보는건가?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="아 제가 그 연구가 바빠서 집에서 할일이 좀 남아서 못갔습니다. 다음에는 꼭..." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="ㄴ내ㄱㅏ 여연구시ㄹ 와서 ㅊ축ㅎㅏ해준는데 왜ㅐ 너ㅓ만ㅃㅏ져서" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="???" BGM =""/>
+	<Script Comm="갑자기 울것같은 표정을 짓길래 재빨리 화제를 돌렸다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="에이 제가 오늘은 너무 바빠서 그런거고 다음에는 꼭 참석하죠 저도 새로운 포닥분이 들어와서 너무 좋죠" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="ㅈ좋ㅇㅏ? 그ㄹㅐ?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="???" BGM =""/>
+	<Script Comm="ㄷㅏ음에느 꼮 와야해요 ㄷㅐ학운생" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="???" BGM =""/>
+	<Script Comm="갑자기 흡족한 표정을 지으며 내가 왔던 방향으로 비틀거리며 지나쳐 갔다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="아니 뭐지? 술을 잘 못하셔서 먼저 나온건가? 근데 본인 축하파티에 본인이 집에 먼저가도 되는건가?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="정확한 정황은 모르지만 뭐 잘 해결됐으니 좋은거겠지?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="문여는 소리" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="어서오세요" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="편의점점원" BGM =""/>
+	<Script Comm="안녕하세요" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="무슨 맥주를 마실까" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="" Img_Dest="" Img_Location="" Img_Effect="" Move="Choice" Name ="주인공" BGM =""/>
+	<Script Comm="Cass" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="Asahi Draft" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="역시 맥주는 쌈마이지|오랜만에 좀 해외맥주를 마셔볼까" Img_Dest="" Img_Location="" Img_Effect="" Move="Choice_Result" Name ="주인공" BGM =""/>
+	<Script Comm="확실히 탄산 강한게 좋단말이지|밤도 늦었으니까 부드러운 맛이 좋긴하지" Img_Dest="" Img_Location="" Img_Effect="" Move="Choice_Result" Name ="주인공" BGM =""/>
+	<Script Comm="한캔 정도면 되겠지 아까보니 술 많이 마셔도 안좋은것 같으니까" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="저기요 이거 계산해주세요" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="감사합니다 수고하세요" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="문여는소리" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="한밤에 적막하게 걷고있으니 많은 생각이 들긴한다" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="운좋게 성공은 했지만 참..." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="이제 한걸음 내딛은 것인데 이정도 성공에 자만하고 있는 것을 보면 참 나도 나라는 생각이 든다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="그래 군대와 관계없이 그냥 이번에는 최선을 한번 다해보자." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="오늘 일찍일어나니까 하루가 건설적이던데 내일도 일찍일어나봐야겠다." Img_Dest="" Img_Location="" Img_Effect="" Move="Turnup" Name ="주인공" BGM =""/>
+	<Script Comm="그래 기왕 산거 후딱 마시고 자야겠다" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="터덜터덜 걸어가는 밤이다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="" Img_Dest="" Img_Location="" Img_Effect="" Move="Dayend" Name ="주인공" BGM =""/>
+</day2>

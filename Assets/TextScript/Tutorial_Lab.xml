@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Tutorial_Lab>
+	<Script Comm="" Img_Dest="" Img_Location="" Img_Effect="" Move="Block" Name ="" BGM =""/>
+	<Script Comm="" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="Tutorial[맵 이동] 스토리가 진행되면 Map 아이콘이 활성화 됩니다." Img_Dest="" Img_Location="" Img_Effect="" Move="Keepgoing" Name ="" BGM =""/>
+	<Script Comm="Map Icon을 클릭시 Map선택창이 나옵니다." Img_Dest="" Img_Location="" Img_Effect="" Move="Map" Name ="" BGM =""/>
+	<Script Comm=" " Img_Dest="" Img_Location="" Img_Effect="" Move="Turnup" Name ="" BGM =""/>
+	<Script Comm="연구소로 가기위해 AIScene 버튼을 눌러주세요." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+</Tutorial_Lab>
