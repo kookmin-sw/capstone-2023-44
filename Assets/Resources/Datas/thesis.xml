@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ThesisList>
+	<Field academy="디지털산업정보학회" author="디지털산업정보학회 논문지" isValid="false"/>
+	<Field academy="컴퓨터게임학회" author="한국컴퓨터게임학회논문지" isValid="true"/>
+	<Field academy="컴퓨터그래픽스학회" author="한국컴퓨터그래픽스학회 학술대회 논문집" isValid="false"/>
+	<Field academy="인공지능학회" author="인공지능연구" isValid="true"/>
+	<Field academy="정보전자통신기술학회" author="한국정보전자통신기술학회 논문지" isValid="true"/>
+	<Field academy="차세대컴퓨팅학회" author="한국차세대컴퓨팅학회 논문지" isValid="true"/>
+	<Field academy="컴퓨터정보학회" author="한국컴퓨터정보학회논문지" isValid="true"/>
+	<Field academy="tmp1" author="tmpp1" isValid="false"/>
+	<Field academy="tmp2" author="tmpp2" isValid="false"/>
+	<Field academy="tmp3" author="tmpp3" isValid="false"/>
+</ThesisList>

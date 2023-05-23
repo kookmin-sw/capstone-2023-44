@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DocumentList>
+	<Field institution="연구재단" stampFileName="test1" isValid="false"/>
+	<Field institution="데이터진흥원" stampFileName="test2" isValid="true"/>
+	<Field institution="전자통신연구원" stampFileName="test3" isValid="false"/>
+	<Field institution="정보통신산업진흥원" stampFileName="test4" isValid="true"/>
+	<Field institution="정보화진흥원" stampFileName="test5" isValid="false"/>
+	<Field institution="한국민대학교 소프트웨어융합대학" stampFileName="test6" isValid="true"/>
+	<Field institution="병무청 산업기원과" stampFileName="test7" isValid="false"/>
+	<Field institution="ttmp1" stampFileName="test8" isValid="true"/>
+	<Field institution="ttmp2" stampFileName="test9" isValid="false"/>
+	<Field institution="ttmp3" stampFileName="test10" isValid="true"/>
+</DocumentList>

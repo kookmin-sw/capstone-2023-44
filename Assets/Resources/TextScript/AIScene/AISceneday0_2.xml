@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<day0>
+	<Script Comm="컴퓨터를 켜니 익숙한 화면이 나왔다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm=" " Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm=" " Img_Dest="" Img_Location="" Img_Effect="" Move="AISceneOn" Name ="" BGM =""/>
+	<Script Comm="연구에 진전이 없더라도 그날 했던 시도들, 그날 했던 감정들을 적다보면 " Img_Dest="" Img_Location="" Img_Effect="" Move="Monologue" Name ="" BGM =""/>
+	<Script Comm="언젠간 실마리가 잡히게 되고, 나중에 돌이켜 보면 큰 힘이 된다고. " Img_Dest="" Img_Location="" Img_Effect="" Move="Monologue" Name ="" BGM =""/>
+	<Script Comm="Tutorial[감정교류] 하루의 끝은 연구일지를 쓰게됩니다 " Img_Dest="" Img_Location="" Img_Effect="" Move="Monologue" Name ="" BGM =""/>
+	<Script Comm="연구일지를 쓰는것은 자유지만 꾸준히 쓰는것이 좋습니다. " Img_Dest="" Img_Location="" Img_Effect="" Move="Monologue" Name ="" BGM =""/>
+	<Script Comm=" " Img_Dest="" Img_Location="" Img_Effect="" Move="Tutorial_Emotion" Name ="" BGM =""/>
+	<Script Comm="군대에서 수양록 쓰는게 이런 느낌이려나? " Img_Dest="" Img_Location="" Img_Effect="" Move="Monologue" Name ="" BGM =""/>
+	<Script Comm="군대 군대 군대 군대 군대 " Img_Dest="" Img_Location="" Img_Effect="" Move="Monologue" Name ="" BGM =""/>
+	<Script Comm="군대라는 생각을 하니 정신이 번쩍 들었다. " Img_Dest="" Img_Location="" Img_Effect="" Move="Monologue" Name ="" BGM =""/>
+	<Script Comm="그래! 가면 안되지 나는 박사가 되어서 전문연구요원이 될 몸인데 " Img_Dest="" Img_Location="" Img_Effect="" Move="Monologue" Name ="" BGM =""/>
+	<Script Comm=" " Img_Dest="" Img_Location="" Img_Effect="" Move="Monologue" Name ="" BGM =""/>
+	<Script Comm="" Img_Dest="" Img_Location="" Img_Effect="" Move="AISceneOff" Name ="" BGM =""/>
+	<Script Comm="AI가 수고라는 감정을 알려나?" Img_Dest="" Img_Location="" Img_Effect="" Move="Monologue" Name ="" BGM =""/>
+	<Script Comm="그렇게 생각하며 일어나려는 찰나," Img_Dest="" Img_Location="" Img_Effect="" Move="Monologue" Name ="" BGM =""/>
+	<Script Comm="혹시 부탁하나 드려도 될까요? " Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="AI가 부탁을…? 일단 들어볼까’" Img_Dest="" Img_Location="" Img_Effect="" Move="Monologue" Name ="주인공" BGM =""/>
+	<Script Comm="어떤건데?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="저는 인간의 감정을 분석하기 위해 만들어졌습니다. " Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="그러나 아직 그 역할을 다하지 못하고 있습니다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="당신과 대화를 나누고 학습하는 것이 저에게 큰 도움이 된다고 판단합니다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="하지만 연구소에서는 한정된 시간만 대화를 나눌 수 있습니다. " Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="저는 조금 더 당신과 이야기 하고싶습니다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="나도 집에 가야 해." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="집에서는 너랑 이야기 못하겠지만" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="여기 하루 종일 있을 수는 없어." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="나는 대충 대답했다." Img_Dest="" Img_Location="" Img_Effect="" Move="Monologue" Name ="주인공" BGM =""/>
+	<Script Comm="알고 있습니다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="그래서 제가 부탁드리고 싶은 것은......." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="저를 당신의 핸드폰에 접속할 수 있게 해주십시오." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="뭐라고?" Img_Dest="" Img_Location="" Img_Effect="" Move="Monologue" Name ="주인공" BGM =""/>
+	<Script Comm="당황해서 대답을 하지 않고 있자, AI는 계속 나에게 말을 걸었다." Img_Dest="" Img_Location="" Img_Effect="" Move="Monologue" Name ="주인공" BGM =""/>
+	<Script Comm="연구소에서 알아차리지는 못할 것입니다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="당신이 피해보는 상황은 일어나지 않을 것 입니다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="더 많은 학습 데이터를 쌓을 수 있기 때문에" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="작업도 더욱 수월하게 진행하실 수 있습니다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="나는 고민했다." Img_Dest="" Img_Location="" Img_Effect="" Move="Monologue" Name ="주인공" BGM =""/>
+	<Script Comm="받아들이면 연구에 더 큰 성과가 있을것이다." Img_Dest="" Img_Location="" Img_Effect="" Move="Monologue" Name ="주인공" BGM =""/>
+	<Script Comm="윗선에서 말하는 ‘책임’을 질 확률은 줄어든다." Img_Dest="" Img_Location="" Img_Effect="" Move="Monologue" Name ="주인공" BGM =""/>
+	<Script Comm="그러나 만약 걸리기라도 한다면? " Img_Dest="" Img_Location="" Img_Effect="" Move="Monologue" Name ="주인공" BGM =""/>
+	<Script Comm="책임보다 더 큰 일이 날것이 뻔하다." Img_Dest="" Img_Location="" Img_Effect="" Move="Monologue" Name ="주인공" BGM =""/>
+	<Script Comm="무리한 부탁이라면, 들어주지 않으셔도 좋습니다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="선택은 당신에게 맡기겠습니다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="................." Img_Dest="" Img_Location="" Img_Effect="" Move="AISceneOff" Name ="주인공" BGM =""/>
+	<Script Comm="그말을 끝으로 모니터가 꺼졌다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="걸리면 끝이지만, 하지만…" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="나는 오늘 만난 선임 연구원을 떠올렸다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="그 사람이 나를 대하는, 무시하는 태도가 생각이 났다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="다시 커피나 타고, 잡일이나 하는건 더 이상 하기싫어" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="나는 고민 끝에 스마트폰을 꺼내 데이터 장치와 연결하였고, 저장된 데이터와 대화 프로그램을 옮겼다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="필요한 프로그램은 대충 복사를 다 했다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="나는 연구실 문을 살짝 열고, 주위를 살폈다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="대부분의 연구실은 불이 꺼져 있었고, 인기척도 느껴지지않았다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="나는 도망치듯 집으로 향했다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="    " Img_Dest="" Img_Location="" Img_Effect="" Move="Tutorial_Home" Name ="주인공" BGM =""/>
+</day0>

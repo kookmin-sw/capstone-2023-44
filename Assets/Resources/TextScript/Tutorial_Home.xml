@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Tutorial_Home>
+	<Script Comm="" Img_Dest="" Img_Location="" Img_Effect="" Move="Block" Name ="" BGM =""/>
+	<Script Comm="Tutorial[턴]" Img_Dest="" Img_Location="" Img_Effect="" Move="Keepgoing" Name ="" BGM =""/>
+	<Script Comm="아침 점심 저녁마다 행동을 취할 수 있습니다." Img_Dest="" Img_Location="" Img_Effect="" Move="Keepgoing" Name ="" BGM =""/>
+	<Script Comm="플레이어의 선택에 따라 운명이 바뀌게 됩니다." Img_Dest="" Img_Location="" Img_Effect="" Move="Keepgoing" Name ="" BGM =""/>
+	<Script Comm="하지만 오늘은 곧장 집으로 가서 휴식을 취하도록 합시다." Img_Dest="" Img_Location="" Img_Effect="" Move="Map" Name ="" BGM =""/>
+	<Script Comm=" " Img_Dest="" Img_Location="" Img_Effect="" Move="Turnup" Name ="" BGM =""/>
+	<Script Comm="집으로 가기위해서 GameScene 버튼을 눌러주세요." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+</Tutorial_Home>

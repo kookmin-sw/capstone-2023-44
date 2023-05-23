@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<day1>
+	<Script Comm="" Img_Dest="BackGround_BG" Img_Location="Assets/Design/BackGrounds/Black_BG.jpg" Img_Effect="change" Move="" Name =""/>
+	<Script Comm="...으으 머리야" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="술기운 때문인가 머리가 깨질듯이 아파온다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="대체 얼마나 마신거지" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="얼..마나? 아니 지금 몇시야" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="황급히 일어나서 시계를 확인했다." Img_Dest="BackGround_BG" Img_Location="Assets/Design/BackGrounds/Room_Bright.png" Img_Effect="change" Move="" Name ="주인공"/>
+	<Script Comm="시계사진" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="해는 이미 중천에 떠있고" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="밖은 모두 출근해서 적막한 소리만 흐른다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="이런 누가봐도 지각할게 뻔하다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="어제 분명.. 분명히 연구에만 집중하기로 다짐했잖아" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="하긴 내가 스스로한 약속을 3일이상 지켜본적이 있던가" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="최소한 하루라도 지켰으면 지금과 같은 상황에 처하지는 않았을 것이다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="일단 대충이라도 씻고 나가야겠는데" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="어제 술마셨는데 얼굴 상태가 어떻지?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="황급히 욕실 문을 열고" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="거울앞에 서서 찬찬히 얼굴을 둘러보기 시작했다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="면..도 까지는 필요가 없을 것 같고" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="잠옷 냄새를 맡아보니 샤워도 필요가 없어보였다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="원래 대학원생은 피와 땀을 먹고 성장한다고 한 선배의 말이 생각났다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="내가 피는 못 흘려줘도 이정도 땀냄새면 충분히 먹여준거지" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="아니 내가 지금 무슨 잡생각을 하고 있는거야." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="황급히 물을 틀고 머리를 적셨다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="앗 차거??????!" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="설마하는 생각이 머리속을 스쳤다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="아니겠지 하며 다시 수도꼭지를 세차게 돌렸다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="보일러... 안틀고 왔다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="전례없는 속도로 머리가 돌기 시작했다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="지금 보일러를 틀고 따뜻한 물이 나올때까지 기다리면?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="그건 확실한 지각이고" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="지금 악으로 깡으로 버텨가며 찬물로 머리를 감는다면?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="그건 애매한 지각이고" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="" Img_Dest="" Img_Location="" Img_Effect="" Move="Choice" Name ="주인공" BGM =""/>
+	<Script Comm="보일러를 틀고 기다린다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="아니다 악으로 깡으로 버틴다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="황급히 문을 열고 보일러를 최대로 돌렸다. |으으으으으으으으으으으으으으으으으으으응으으으으으으으으으악" Img_Dest="" Img_Location="" Img_Effect="" Move="Choice_Result" Name ="주인공" BGM =""/>
+	<Script Comm="왠지 튼지 얼마 안되서 물이 미지근하지만 찬물로 머리감는거보다는 낫겠지|생각하지도 못한 온도에 머리가 깨질듯이 아프다" Img_Dest="" Img_Location="" Img_Effect="" Move="Choice_Result" Name ="주인공" BGM =""/>
+	<Script Comm="군대에선 시설이 안좋아서 찬물로 머리를 감는다는데.|군대에선 시설이 안좋아서 찬물로 머리를 감는다는데." Img_Dest="" Img_Location="" Img_Effect="" Move="Choice_Result" Name ="주인공"/>
+	<Script Comm="사람이 머리를 찬물로 어떻게감아? |이건 안돼, 사람이 할수 있는 일이 아니야" Img_Dest="" Img_Location="" Img_Effect="" Move="Choice_Result" Name ="주인공"/>
+	<Script Comm="아니 나는 왜 또 군대생각을 하고있는거지?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="요즘 스트레스를 받으면 모든 생각이 군대로 귀결되는것 같다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="아차차 이럴때가 아니지" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="어제도 이미 선배한테 찍혔는데 이틀 연속으로 걸릴 수는 없어." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="황급히 옷장문을 열고 옷들을 살펴보았다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="옷장안은 제대로 말리지도 못하고, 다림질 조차 못한 옷들이 제멋대로 포개어져 있었다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="돌아오는 주말에 빨래 한번 해야겠다.." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="오늘도 어찌되었든 늦을 것 같은데" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="제발 오늘도 교수님이 안오거나 늦게 해주세요" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="매일 뭐라하는 선배도 오늘만큼은 저에게 관심이 없게 해주세요" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="결국 열심히 하리라는 다짐을 한 다음날도 아침은 커녕 샤워조차 못하고 출근하게 되었다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공"/>
+	<Script Comm="" Img_Dest="" Img_Location="" Img_Effect="" Move="Tutorial_Map" Name =""/>
+</day1>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Tutorial_CellPhone>
+	<Script Comm="" Img_Dest="" Img_Location="" Img_Effect="" Move="Block" Name ="" BGM =""/>
+	<Script Comm="Tutorial[핸드폰]" Img_Dest="" Img_Location="" Img_Effect="" Move="Keepgoing" Name ="" BGM =""/>
+	<Script Comm="주인공은 핸드폰을 통해 여러가지 연락을 받습니다." Img_Dest="" Img_Location="" Img_Effect="" Move="Keepgoing" Name ="" BGM =""/>
+	<Script Comm="새로운 연락이 오게되면 진동소리와 함께 알림이 울립니다" Img_Dest="" Img_Location="" Img_Effect="" Move="Keepgoing" Name ="" BGM =""/>
+	<Script Comm="핸드폰을 열어서 메시지를 보도록 합시다" Img_Dest="" Img_Location="" Img_Effect="" Move="CellPhone" Name ="" BGM =""/>
+	<Script Comm="Message아이콘을 클릭해서 온 메시지 목록을 엽니다." Img_Dest="" Img_Location="" Img_Effect="" Move="CellPhoneMessage" Name ="" BGM =""/>
+	<Script Comm="............................" Img_Dest="" Img_Location="" Img_Effect="" Move="Keepgoing" Name ="" BGM =""/>
+	<Script Comm="교수님이 오늘 간이 세미나를 연다고 합니다." Img_Dest="" Img_Location="" Img_Effect="" Move="Keepgoing" Name ="" BGM =""/>
+	<Script Comm="큰일이 나버렸습니다." Img_Dest="" Img_Location="" Img_Effect="" Move="Keepgoing" Name ="" BGM =""/>
+	<Script Comm="" Img_Dest="" Img_Location="" Img_Effect="" Move="Tutorial_CellPhone_End" Name ="" BGM =""/>
+</Tutorial_CellPhone>

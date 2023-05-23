@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Tutorial_Emotion>
+	<Script Comm="하단의 노트 아이콘을 눌러서 일지작성으로 이동해주세요" Img_Dest="" Img_Location="" Img_Effect="" Move="Research" Name ="" BGM =""/>
+	<Script Comm="하단의 연필 버튼을 눌러 작성창으로 들어가 주세요" Img_Dest="" Img_Location="" Img_Effect="" Move="Research_Write" Name ="" BGM =""/>
+	<Script Comm="100자 이내로 연구일지를 작성해 주세요 하루의 일지는 언제든지 변경 가능하며 지난 날짜는 작성하지 못합니다" Img_Dest="" Img_Location="" Img_Effect="" Move="Monologue" Name ="" BGM =""/>
+	<Script Comm="작성이 완료되면 엔터버튼을 클릭해 저장해주세요" Img_Dest="" Img_Location="" Img_Effect="" Move="Research_End" Name ="" BGM =""/>
+	<Script Comm=" " Img_Dest="" Img_Location="" Img_Effect="" Move="Tutorial_Emotion_End" Name ="" BGM =""/>
+	<Script Comm="" Img_Dest="" Img_Location="" Img_Effect="" Move="Tutorial_Emotion_End" Name ="" BGM =""/>
+</Tutorial_Emotion>

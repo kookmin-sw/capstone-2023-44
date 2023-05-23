@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<day1>
+	<Script Comm="" Img_Dest="BackGround_BG" Img_Location="Assets/Design/BackGrounds/Room_Dinner.png" Img_Effect="change" Move="" Name ="" BGM =""/>
+	<Script Comm="문여는 소리" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="대체 뭐였을까" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="오는 길에 나름대로 작동한 이유와 타당한 결론을 내려고 했지만" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="실마리조차 잡히지 않았다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="내가 조그마한 수정이라도 했으면 모르겠지만" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="수정은 커녕 어제 이후로 코드에 한 줄도 추기하지 않았다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="머리속에서 가능한 결론은 하나뿐이었다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="누군가 내 컴퓨터를 작동시켰다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="작동시킨 것 뿐만 아니라 비밀번호를 뚫고 들어가서 코드에 손을 댔다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="그 손댄 코드가 적절하게 작동해서 지금까지 미동도 하지 않았던 AI가 작동을 했다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="그럼 여기서 얻을 수 있는 결론은 뭘……까?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="" Img_Dest="" Img_Location="" Img_Effect="" Move="Choice" Name ="주인공" BGM =""/>
+	<Script Comm="내 선임 연구원이 코드를 수정했다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="교수님이 내 박사과정 졸업을 위해 도움을 주셨다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="선임이 코드를 수정해서 얻는게 뭐가있을까?|교수님이 내 연구를 도와줘서 얻는게 뭐가있을까?" Img_Dest="" Img_Location="" Img_Effect="" Move="Choice_Result" Name ="주인공" BGM =""/>
+	<Script Comm="선임은 매일 날 놀리고 갈구기만 하지 도와주는 행동은 딱히 없었는데|지금까지 나를 포함한 대학원생에게 관심을 주신적이 없는데" Img_Dest="" Img_Location="" Img_Effect="" Move="Choice_Result" Name ="주인공" BGM =""/>
+	<Script Comm="심지어 연구 분야도 나랑 다른 데이터 전처리잖아.|심지어 오늘 모은 세미나도 몇개월만에 주최하신거였다." Img_Dest="" Img_Location="" Img_Effect="" Move="Choice_Result" Name ="주인공" BGM =""/>
+	<Script Comm="하긴 매일 매일 전처리 알고리즘을 짠다고 징징대는 모습을 떠올리니 선임일리가 없었다.|거기에 졸업을 늦게하면 늦게할수록 교수님이 이득인 구조가 아닌가." Img_Dest="" Img_Location="" Img_Effect="" Move="Choice_Result" Name ="주인공" BGM =""/>
+	<Script Comm="그럼 혹시 교수님이?|그럼 혹시 선배가?" Img_Dest="" Img_Location="" Img_Effect="" Move="Choice_Result" Name ="주인공" BGM =""/>
+	<Script Comm="반대의 상황도 말이 안되기는 마찬가지다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="하긴 내가 뭐라고 비밀번호도 모르는 컴퓨터를 해킹까지 해가면서 도움을 주셨겠어" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="다들 자기 할일로 바쁜분들인데" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="사실이었다" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="따지고 보면 연구실에서 내가 제일 한가했다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="오늘 AI가 우연찮게 작동하기 전까지는 어디 실마리 없나 여러 논문을 이리기웃 저리기웃 해야했다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="논문내용을 적용하고 나면 틀린그림찾기 하는것 처럼 디버그도 해야했고" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="그냥 신께서 도와준거라고 생각할까?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="머릿속에서 온갖 신들이 모습이 떠올랐지만 중요한것을 뺴먹고있었다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="어차피 작동원리를 설명 못하면, 박사논문의 도입부조차 쓸 수 없었다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="갑작스레 작동해서 당황스럽고 들떠서 연구실에서 미처 생각하지 못했던 부분이었다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="아씨.. 대체 뭐때문에 작동이 성공했다고 해야하지?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="" Img_Dest="" Img_Location="" Img_Effect="" Move="Choice" Name ="주인공" BGM =""/>
+	<Script Comm="참고했었던 논문과 이론이 완벽했지만, 사소한 문법오류였다고 한다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="프로그램 용량이 너무 커서 오랜시간이 걸려 지금 실행된거라고 한다." Img_Dest="" Img_Location="" Img_Effect="" Move="Choice" Name ="주인공" BGM =""/>
+	<Script Comm="문법오류가 문제였다고 하면 더 뭐라하지 않으실까?|프로그램 용량문제라고 하면 화내지 않으실까?" Img_Dest="" Img_Location="" Img_Effect="" Move="Choice_Result" Name ="주인공" BGM =""/>
+	<Script Comm="대학원 1~2년차도 아닌놈이 고작 문법오류로 연구를 못하고 있었다고|지금 연구설비 투자가 미흡한거냐고" Img_Dest="" Img_Location="" Img_Effect="" Move="Choice_Result" Name ="주인공" BGM =""/>
+	<Script Comm="문법오류는 나 말고도 많이들 하는데..|연구설비 투자가 미흡한거는 맞으면서.." Img_Dest="" Img_Location="" Img_Effect="" Move="Choice_Result" Name ="주인공" BGM =""/>
+	<Script Comm="사실이기는 하지만 교수님께서 역정을 낼게 뻔했다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="더군다나 아직 AI가동이 100%성공한 것도 아니었다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="고작 이미지를 이용한 학습 하나 시켰다고 오류가 없는지도 모르고" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="실제 작동을 한다고 하더라도, 참고문헌대로면 지능, 감정, 규범등등 학습시켜야 할 것도 산더미고" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="결론적으로 부차적인 이득을 가져올 수 있느냐도 연구해봐야 되고." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="이제 한고비 넘은거였네..." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="생각해보니 암담해졌다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="그래 이걸 계기로 내일부터는 교수님없다고 지각하지말고 정시 출근도 하고" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="연구계획도 잡히는대로 하는게 아니라 리스트로 만들어서 체계적으로 접근하고" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="점심시간에 화장실 핑계로 10분일찍 나가고 10분 늦게 들어오는것도 그만두고" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="담배도 안피는데 선임 담배피러 나갈때 낑겨가지 말고" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="어 또 뭐가있더라..." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="연구실에 붙어있기 싫어서 했던 행동들을 돌이켜 보니 저절로 자기반성을 하게 되었다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="나 진짜 그동안 노답이었구나." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="의욕이 생겨서 자신을 돌이켜보니, 선임이 나를 갈구던것도 교수님이 내게 관심이 없던것도 다 이해가 갔다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="기왕 연구계획을 세우기로 한거 대체 AI를 어떻게 유도해야 효율적으로 학습시킬 수 있을까?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="" Img_Dest="" Img_Location="" Img_Effect="" Move="Choice" Name ="주인공" BGM =""/>
+	<Script Comm="지능" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="감정" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="지능을 중점적으로 학습시키려면 스스로 답을 내리는 인간형 AI가 되어야하나?| 감정을 중점적으로 학습시키려면 인간과 소통이 가능한 AI가 되어야하나?" Img_Dest="" Img_Location="" Img_Effect="" Move="Choice_Result" Name ="주인공" BGM =""/>
+	<Script Comm="AI는 컴퓨터에서 사용할 수있는 주변기기들을 다 사용할 수 있는것 같던데|AI는 컴퓨터에서 사용할 수있는 주변기기들을 다 사용할 수 있는것 같던데" Img_Dest="" Img_Location="" Img_Effect="" Move="Choice_Result" Name ="주인공" BGM =""/>
+	<Script Comm="인터넷에서 얻을 수 있는 정보를 제외하고 상식을 학습하려면|사람들과 소통하며 감정을 느끼려면" Img_Dest="" Img_Location="" Img_Effect="" Move="Choice_Result" Name ="주인공" BGM =""/>
+	<Script Comm="역시 자아와 비슷한 인간적인 형상이 필요하겠지?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="좋아 그러면 오늘 집에서는 형상을 제작해서" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="내일 연구실 컴퓨터에 설치한다음에 반응을 물어보는걸 목표로 하자" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="확실히 연구성과가 눈에 보이니 의욕이 마구마구 샘솟는다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="그동안 다른 애들은 어떻게 그렇게 연구에 열중하나 했더니 눈에 보이는 결과가 나오니 쉽구만" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="자 그럼 내일 일찍일어나야 하니까 빠르게 제작을 하고 잠을 자볼까" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="컴퓨터 켜지는 소리" Img_Dest="BackGround_BG" Img_Location="Assets/Design/BackGrounds/Black_BG.jpg" Img_Effect="evadeandbright" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="타자소리" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="조금 차가운 느낌이었으니까 전체적인 색감은 파란색 계열로 하고" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="타자소리" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="외형은 즐겨보는 애니의 최애캐를 닮게 설정하고" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="타자소리" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="이쯤이면 됐나? 내가 디자인했지만 정말 괜찮은데" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="하품소리" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="안하던 연구를 몰아서 하니 잠이 오기 시작한다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="어떻게 규칙적인 생활들을 하나 했더니, 일을 열심히하면 자동적으로 졸려서 잠드는 거였구나" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="평소에 못느끼던 졸음을 느끼니, 성취감과 함께 뿌듯함이 몰려왔다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="그래 오늘은 이쯤하고, 내일도 열심히 해서 제시간에 잠을 자보자" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="의욕에 넘친 마음을 뒤로하고 잠을 청했다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="Day1End" Img_Dest="" Img_Location="" Img_Effect="" Move="Dayend" Name ="주인공" BGM =""/>
+</day1>

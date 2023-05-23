@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<day2>
+	<Script Comm=" " Img_Dest="BackGround_BG" Img_Location="Assets/Design/BackGrounds/Room_Dinner.png" Img_Effect="change" Move="" Name ="" BGM =""/>
+	<Script Comm="집으로 돌아오는길에 생각해보니 어딘가 찜찜하다" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="평소에 날 챙겨주지도 않던 사람들이 갑자기 나를 생각해주기 시작하다니" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="내가 열심히 연구하는 모습을 보여줘서 그런건가?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="내가 남들이 변했다고 뭐라고 할 수 있는 처지는 아니었다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="따지고 보면 최근 며칠간 제일 많이 변한건 내가 아닌가?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="매일 한량처럼 연구 안하고, 농땡이만 피우다가" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="최근에 결과에 맛들려서 열심히 연구를 하고 있는 꼴이니까" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="하긴 그동안 내가 너무 놀아서 교수님이나 선배나 나를 무시했던거지" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="또 이렇게 하려고 마음먹고 보여주니까 도와주는거지." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="확실히 AI를 개발하고 나서 내 인생이 달라졌다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="원래는 선배 눈도 제대로 못마주치고" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="교수님을 피해다니고 여자한테는 말도 못걸었는데" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="연구에 진전이 생기니까 스스로를 위해서 노력하고 사람들과 자연스러운 대화도 가능해졌다" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="내가 누구?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="AI 개발자" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="거울" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="이렇게 말을 하고 막상 앞에있는 거울을 보니까 초라한 모습이 보였다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="조금의 성공에 이정도로 취하다니 그동안 얼마나 성취가 없었던걸까 하는 생각이 들었다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="됐다 그만 들떠있어야지" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="그런데 문득 궁금해지긴 했다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="우리 연구실에서 회식을 할때는" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="교수님 밑에서 졸업한 교수분들과, 석박사분들을 모두 초대하는 홈커밍데이를 제외하고는.... " Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="있었나?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="교수님이 강제로 주말에 불러서 가는 등산.. 등산후의 막걸리도 회식으로 쳐야하나?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="다른 연구실은 경조사뿐만아니라 연구원 강아지 생일파티도 챙겨주고, 여자친구 생일이라고 하면 상품권도 주는 곳도 있다는데" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="그건 너무 사생활 침해라 안좋은건가?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="워낙 연구실들이 극과극이고 교수by교수이기 때문에" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="정상인 연구실이 없어보이기는 해" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="... 지금 무슨생각을 하고있는거지?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="항상 이게 문제다" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="어렸을때 부터 공부를 시작하려고 하면, 꼭 주변정리가 재밌어지고 청소를 시작하게 되는 마법" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="그런 행동을 특히 재밌어 하는것이 어린시절의 나였다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="지금도 별로 달라진건 없다" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="급한일을 해야되면 꼭 나중에 해야되는 일도 재밌어지는 성격" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="이런 우유부단한 성격도 학부생활을 망치고 타대학 대학원을 진학하게 된 이유중에 하나다" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="따지고보면 군대도 남들 갈때 안가고 어영부영 시간을 보내다가 너무 늦어져서 안가게 된거긴 하지..." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="연구주제도 보통 학부시절에 흥미가 있거나 재능이 있는 분야를 선택하는데" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="나는 이것도 별로고 저것도 별로여서 교수님이 장래가 유망하다고 한 AI를 선택한거긴 하지" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="뜻밖에 자아성찰에 양심이 짓눌린 기분이다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="결국 이렇게 된것도 모두 내탓이긴 하네" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="평소에 술을 즐기지는 않지만 이렇게 우울한 날에는 술이 땡기기 마련이다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="아마 저번에 사왔던 맥주가 남아있긴 할텐데" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="남은 하나를 먹어치울까?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="" Img_Dest="" Img_Location="" Img_Effect="" Move="Choice" Name ="주인공" BGM =""/>
+	<Script Comm="어차피 한캔 그냥 마신다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="마시지 않는다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="" Img_Dest="" Img_Location="" Img_Effect="" Move="Day2_Choice" Name ="주인공" BGM =""/>
+	<Script Comm="예전엔 부모님이 우울할때 술마시지 말라고하셨는데" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="나이가 드니 지키기가 쉽지는 않아도 지키려고 노력은 한다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="물론 노력은 하고있지만 주변의 유혹은 견디기 쉽지 않지만" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="그래도 오늘같이 술이 필요한날에 술을 먹지 않는 결정을 하니 마음속의 우유부단함이 조금은 사라진것 같은 생각이 들었다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="그래 군대 이런거 더이상 신경쓰지 말고" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="일단 할 수 있는 일에 집중하고 안되는 말자" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="술기운이 없어도 뭔가 결정을 내릴수 있을 것 같았다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="아니 남들 다가는 군대 지금가도 못갈것도 아니고 1년6개월 길면 길고 짧다면 짧은데" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="뭐 가도 시간날때 논문 읽고 핸드폰도 준다니까 그걸로 공부를 하면 머리도 덜굳고 좋지 뭐" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="하는 생각이 들었다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="남들이나 같은 대학원생이 보기엔 조그마한 성공이지만" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="대학 졸업이후로 이렇다할 성공이없던 나에게는 너무 단 열매였다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="주제에 대해서 뭐라하건 실적에 대해서 누가 뭐라하건간에" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="이걸 거름삼아 이끌어나가서 더 큰 성공을 맛보고 싶었다" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="좋아 오늘 일찍 일어나니까 하루가 여유롭고 건설적이던데." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="주인공" BGM =""/>
+	<Script Comm="내일도 일찍 일어날수 있게, 오늘도 딴짓하지말고 계획된 컴포넌트 개발만 끝내고 자자." Img_Dest="" Img_Location="" Img_Effect="" Move="Turnup" Name ="주인공" BGM =""/>
+	<Script Comm="시계는 11시를 가리키고 있었다." Img_Dest="" Img_Location="" Img_Effect="" Move="Dayend" Name ="주인공" BGM =""/>
+</day2>

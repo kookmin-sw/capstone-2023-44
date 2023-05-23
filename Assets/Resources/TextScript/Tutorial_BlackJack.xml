@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Tutorial_BlackJack>
+	<Script Comm="[Tutorial BlackJack]" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="앞으로 연구실에 방문할때마다 AI를 성장시킬 수 있는 미니게임을 할 수 있습니다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="각 미니게임마다 AI가 성장하는 능력치가 달라지게 되며" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="승패, 특정조건의 달성등도 AI의 성장치에 영향을 미치게 됩니다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="카드모양의 아이콘을 클릭하여 게임을 시작해 봅시다." Img_Dest="" Img_Location="" Img_Effect="" Move="BlackJack" Name ="" BGM =""/>
+	<Script Comm="블랙잭의 룰설명을 들으시겠습니까?" Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="" Img_Dest="" Img_Location="" Img_Effect="" Move="BlackJack_TutorialChoice" Name ="" BGM =""/>
+	<Script Comm="듣는다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="이미 룰을 알고있습니다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="" Img_Dest="" Img_Location="" Img_Effect="" Move="BlackJack_TutorialChoiceResult" Name ="" BGM =""/>
+	<Script Comm="블랙잭은 21에 가까운 쪽이 이기는 게임이며 21을 넘어가게 되는 플레이어의 패배입니다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="초기에 카드 2장이 주어지게 되며 카드를 더 받고 싶으면 Hit를 그만 두고 싶으면 Stand를 누르면 더이상 카드를 받지 못합니다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="10이상의 J, Q, K는 모두 10으로 계산되며 A는 1혹은 11 원하는쪽으로 계산됩니다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="처음 나온 두개의 카드가 21일 경우 BlackJack이 되며 자동으로 승리하게 됩니다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="StartButton을 눌러서 게임을 시작해 봅시다." Img_Dest="" Img_Location="" Img_Effect="" Move="BlackJack_Start" Name ="" BGM =""/>
+	<Script Comm="게임이 종료되었습니다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="AI의 지능이 성장할수록 게임의 난이도가 증가하게 됩니다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="턴을 소모하게 되는만큼 매일해야할 필요는 없지만 꾸준히 하면 좋은 결과가 있을것입니다." Img_Dest="" Img_Location="" Img_Effect="" Move="" Name ="" BGM =""/>
+	<Script Comm="" Img_Dest="" Img_Location="" Img_Effect="" Move="Tutorial_Emotion_End" Name ="" BGM =""/>
+	<Script Comm="" Img_Dest="" Img_Location="" Img_Effect="" Move="Tutorial_Emotion_End" Name ="" BGM =""/>
+</Tutorial_BlackJack>
