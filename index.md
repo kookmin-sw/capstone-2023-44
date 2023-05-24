@@ -55,3 +55,4 @@ Arts: Stable diffusion, Novel ai <br />
 
 ##### [Google Drive](https://drive.google.com/drive/folders/1JFq7aJPQ9kyBiYMT8CoLZcOoXJF-qCuG?usp=sharing)
 
+##### [실행 파일](https://drive.google.com/file/d/189NpqO7X8IqGkaDCErq0hMw6heOkJ0kR/view?usp=sharing)
