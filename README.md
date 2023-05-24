@@ -39,8 +39,6 @@ ML models: Pytorch, Unity barracuda, ML-agent, ONNX<br />
 
 Arts: Stable diffusion, Novel ai <br />
 
-Repository: [Google drive](https://drive.google.com/drive/folders/1JFq7aJPQ9kyBiYMT8CoLZcOoXJF-qCuG?usp=sharing) (용량 문제로 인해 구글 드라이브에서 공개합니다.)
-
 <br />
 
 
@@ -56,6 +54,4 @@ Repository: [Google drive](https://drive.google.com/drive/folders/1JFq7aJPQ9kyBi
 ##### [Github](https://github.com/kookmin-sw/capstone-2023-44)
 
 ##### [Google Drive](https://drive.google.com/drive/folders/1JFq7aJPQ9kyBiYMT8CoLZcOoXJF-qCuG?usp=sharing)
-
-[Source file](https://drive.google.com/file/d/1NPS64jNsyXQYIj-LSsapJQsTjlR_U3vc/view?usp=sharing)
 
