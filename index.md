@@ -1,5 +1,4 @@
 ## 캡스톤 디자인 44팀 - Team AI44
-Repository: [Google drive](https://drive.google.com/drive/folders/1JFq7aJPQ9kyBiYMT8CoLZcOoXJF-qCuG?usp=sharing)
 
 ### 프로젝트 소개 
 
@@ -40,7 +39,6 @@ ML models: Pytorch, Unity barracuda, ML-agent, ONNX<br />
 
 Arts: Stable diffusion, Novel ai <br />
 
-Repository: [Google drive](https://drive.google.com/drive/folders/1JFq7aJPQ9kyBiYMT8CoLZcOoXJF-qCuG?usp=sharing) -> 용량 문제로 인해 게임 소스파일들은 github가 아닌 구글 드라이브에 업로드 될 예정입니다.
 
 <br />
 
@@ -49,7 +47,7 @@ Repository: [Google drive](https://drive.google.com/drive/folders/1JFq7aJPQ9kyBi
 
 | 박종한(\*\*\*\*1625)                                                  | 김정환(\*\*\*\*3163)                                                       | 문경한(\*\*\*\*1606)                                                       |
 | :------------------------------------------------------ | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| 이미지 업로드 예정                                      | 이미지 업로드 예정                                           | 이미지 업로드 예정                                           |
+
 | - 프로젝트 기획<br />- 게임 밸런싱<br />- 콘텐츠 디자인 | - 게임 시스템 기획 및 구현<br />- UI/UX 디자인<br />- 캐릭터 디자인 | - AI 컨텐츠 기획<br />- ML 모델 설계 및 구현<br />- 배경 디자인 |
 
 #### 링크
@@ -57,6 +55,4 @@ Repository: [Google drive](https://drive.google.com/drive/folders/1JFq7aJPQ9kyBi
 ##### [Github](https://github.com/kookmin-sw/capstone-2023-44)
 
 ##### [Google Drive](https://drive.google.com/drive/folders/1JFq7aJPQ9kyBiYMT8CoLZcOoXJF-qCuG?usp=sharing)
-
-[Source file](https://drive.google.com/file/d/1NPS64jNsyXQYIj-LSsapJQsTjlR_U3vc/view?usp=sharing)
 
