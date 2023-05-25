@@ -12,85 +12,69 @@ using System.Runtime.ExceptionServices;
 using UnityEngine.UI;
 using B83.Win32;
 using UnityEditor.IMGUI.Controls;
+using System.Threading;
 
-public class YOLOScript : MonoBehaviour
+public class YOLOScriptcam : MonoBehaviour
 {
     // Start is called before the first frame update
 
-    public Texture2D texture;
-    public Texture2D output;
+
+    public Renderer outputDisplay;
+    public Texture2D outputTexture;
     public NNModel modelAsset;
+
     public int classCount;
     public double confidenceThreshold; // 객체가 있을 확률 기준
     public double IOUThreshold; //중복되는 박스 제거
     public float[] classOutputs;
+    
+
     private Model m_RuntimeModel;
     private IWorker engine;
+
+
+    WebCamTexture camTexture;
+    private int currentIndex = 0;
+
+
+    private Texture2D cam;
+
+
+    private float time = 0;
+
 
     //public Prediction prediction;
     void Start()
     {
+        // Setup WebCam
+        if (camTexture != null)
+        {
+            camTexture.Stop();
+            camTexture = null;
+        }
+        WebCamDevice device = WebCamTexture.devices[currentIndex];
+        camTexture = new WebCamTexture(device.name);
+        camTexture.Play();
+
+        // set ai model
         m_RuntimeModel = ModelLoader.Load(modelAsset);
         engine = WorkerFactory.CreateWorker(m_RuntimeModel, WorkerFactory.Device.GPU);
+
         classOutputs = new float[classCount];
+
+        cam = new Texture2D(camTexture.width, camTexture.height);
     }
 
     // Update is called once per frame
     void Update()
     {
-        int touchCount = Input.touchCount;
-        if (Input.GetKeyDown(KeyCode.Space) || touchCount != 0)
+        time += Time.deltaTime;
+        
+        if(time > 0.1f)
         {
-            List<float[]> boxes = new List<float[]>();
-            
-            Stopwatch watch = new Stopwatch();
-            watch.Start();
-
-            // making a tensor out of a grayscale texture 
-            var channelCount = 3; //1=grayscale, 3 = colr, 4 = color+alpha
-            Texture2D resizedTexture = Resize(texture, 640, 640);
-            var inputX = new Tensor(resizedTexture, channelCount);
-            Tensor outputY = engine.Execute(inputX).PeekOutput();
-            inputX.Dispose();
-
-            for(int i = 0; i < classCount; i++)
-            {
-                classOutputs[i] = 0;
-            }
-
-            for (int i = 0; i < 25200; i++)
-            {
-                // x, y, width, height, confidence, id
-                if (outputY[0, 0, 4, i] > confidenceThreshold)
-                {
-                    int index = 0;
-                    float prob = 0;
-                    boxes.Add(new float[5+classCount]);
-                    for (int j = 0; j < 5 + classCount; j++)
-                    {
-                        boxes[boxes.Count-1][j] = outputY[0, 0, j, i];
-                    }
-                    for (int j = 0; j < classCount; j++)
-                    {
-                        if(prob < outputY[0, 0, j + 5, i])
-                        {
-                            prob = outputY[0, 0, j + 5, i];
-                            index = j;
-                        }
-                    }
-
-                    classOutputs[index] = prob;
-                }
-            }
-
-            var ordered = boxes.OrderByDescending(y => y[4]);
-            boxes = ordered.ToList();
-            boxes = NMS(boxes, IOUThreshold);
-            output = draw(boxes, texture.width, texture.height, 2, texture);
-
-            watch.Stop();
-
-            //UnityEngine.Debug.Log(watch.ElapsedMilliseconds + " ms");
+            time = 0;
+            run(camTexture.width, camTexture.height);
+            outputDisplay.material.mainTexture = outputTexture;
         }
 
     }
@@ -115,9 +99,9 @@ public class YOLOScript : MonoBehaviour
 
     List<float[]> NMS(List<float[]> box, double threshold)
     {
-        for (int i = 0; i < box.Count; i++)
+        for(int i = 0; i < box.Count; i++)
         {
-            for (int j = i + 1; j < box.Count; j++)
+            for(int j = i+1; j < box.Count; j++)
             {
 
                 float leftPoint;
@@ -190,7 +174,7 @@ public class YOLOScript : MonoBehaviour
         Texture2D image = new Texture2D(inputImage.width, inputImage.height);
         image.SetPixels32(inputImage.GetPixels32());
         image.Apply();
-        
+
         double x_scale;
         double y_scale;
         y_scale = (double)originalheight / (double)640;
@@ -205,7 +189,7 @@ public class YOLOScript : MonoBehaviour
             x_left = (IOU[i][0] - IOU[i][2] / 2) * x_scale;
             x_right = (IOU[i][0] + IOU[i][2] / 2) * x_scale;
             y_upper = (IOU[i][1] + IOU[i][3] / 2) * y_scale;
-            y_lower = (IOU[i][1] - IOU[i][3] / 2) * y_scale ;
+            y_lower = (IOU[i][1] - IOU[i][3] / 2) * y_scale;
 
             for (int j = 0; j < classCount; j++)
             {
@@ -244,6 +228,58 @@ public class YOLOScript : MonoBehaviour
 
         image.Apply();
         return image;
+    }
+
+    void run(int width, int height)
+    {
+        List<float[]> boxes = new List<float[]>();
+        Stopwatch watch = new Stopwatch();
+
+        // making a tensor out of a grayscale texture 
+        var channelCount = 3; //1=grayscale, 3 = colr, 4 = color+alpha
+        cam.SetPixels32(camTexture.GetPixels32());
+        cam.Apply();
+
+        watch.Start();
+        var inputX = new Tensor(Resize(cam, 640, 640), channelCount);
+        Tensor outputY = engine.Execute(inputX).PeekOutput();
+        //public int Index(int b, int d, int h, int w, int ch)
+        inputX.Dispose();
+
+
+        for (int i = 0; i < 25200; i++)
+        {
+            // x, y, width, height, confidence, id
+            if (outputY[0, 0, 4, i] > confidenceThreshold)
+            {
+                int index = 0;
+                float prob = 0;
+                boxes.Add(new float[5 + classCount]);
+                for (int j = 0; j < 5 + classCount; j++)
+                {
+                    boxes[boxes.Count - 1][j] = outputY[0, 0, j, i];
+                }
+                for (int j = 0; j < classCount; j++)
+                {
+                    if (prob < outputY[0, 0, j + 5, i])
+                    {
+                        prob = outputY[0, 0, j + 5, i];
+                        index = j;
+                    }
+                }
+                classOutputs[index] = prob;
+            }
+        }
+
+        var ordered = boxes.OrderByDescending(y => y[4]);
+
+        boxes = ordered.ToList();
+        boxes = NMS(boxes, IOUThreshold);
+
+        outputTexture = draw(boxes, width, height, 2, cam);
+        watch.Stop();
+
+        //UnityEngine.Debug.Log(watch.ElapsedMilliseconds + " ms");
     }
 
 }
