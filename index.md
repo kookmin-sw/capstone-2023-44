@@ -1,4 +1,5 @@
 ## 캡스톤 디자인 44팀 - Team AI44
+##### [게임 실행 파일](https://drive.google.com/file/d/1O6cvvf3THdBEzO9lCHc24fcqn_BU7jED/view?usp=sharing)
 
 ### 프로젝트 소개 
 
@@ -55,4 +56,5 @@ Arts: Stable diffusion, Novel ai <br />
 
 ##### [Google Drive](https://drive.google.com/drive/folders/1JFq7aJPQ9kyBiYMT8CoLZcOoXJF-qCuG?usp=sharing)
 
-##### [실행 파일](https://drive.google.com/file/d/189NpqO7X8IqGkaDCErq0hMw6heOkJ0kR/view?usp=sharing)
+##### [실행 파일](https://drive.google.com/file/d/1O6cvvf3THdBEzO9lCHc24fcqn_BU7jED/view?usp=sharing)
+
